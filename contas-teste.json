@@ -1,0 +1,16 @@
+{
+  "observacao": "Contas PUBLICAS somente para demonstracao; nao utilizar credenciais reais.",
+  "team": "TESTE123",
+  "users": [
+    {
+      "name": "Gerente Demo",
+      "role": "g",
+      "password": "Teste@123"
+    },
+    {
+      "name": "Funcionario Teste",
+      "role": "f",
+      "password": "Teste@123"
+    }
+  ]
+}
